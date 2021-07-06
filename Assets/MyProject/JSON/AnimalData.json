@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"catData": [
+		{
+			"id": 1,
+			"name": "イエネコ",
+			"engName": "cat",
+			"maxHP": 60
+		},
+		{
+			"id": 2,
+			"name": "ヤマネコ",
+			"engName": "Wildcat",
+			"maxHP": 100
+		}
+	]
+}
